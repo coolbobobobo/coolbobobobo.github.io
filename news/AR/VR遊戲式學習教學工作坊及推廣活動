@@ -17,7 +17,7 @@
     <div class="home">
         <header id="navbar-main">
             <nav class="navbar">
-                <a href="../index.html" class="navbar-brand" ><img src="../img/logo-main.png" alt="" class="logo-main"></a>
+                <a href="../index.html" class="navbar-brand" ><img src="../img/logo_main.png" alt="" class="logo_main"></a>
                 <ul class="nav-menu -pull-right" id="mobilemenu">
                     <li class="nav-item subnav">
                         <a href="javascript:void(0)" class="nav-link">計畫介紹</a>
@@ -32,15 +32,15 @@
                     <li class="nav-item subnav">
                         <a href="../module.html" class="nav-link">微課程模組</a>
                         <ul class="subnav-content">
-                            <li><a href="../module.html">聯盟課程地圖</a></li>
-                            <li><a href="../module.html#moduleZ">向下扎根-基礎先修課程</a></li>
-                            <li><a href="../module.html#moduleA">A.顯示科技專業知識導入模組</a></li>
-                            <li><a href="../module.html#moduleB">B.顯示科技實驗 / 實作模組</a></li>
-                            <li><a href="../module.html#moduleC">C.跨域應用模組</a></li>
+                            <li><a href="module.html">聯盟課程地圖</a></li>
+                            <li><a href="module.html#moduleZ">向下扎根-基礎先修課程</a></li>
+                            <li><a href="module.html#moduleA">A.顯示科技專業知識導入模組</a></li>
+                            <li><a href="module.html#moduleB">B.顯示科技實驗 / 實作模組</a></li>
+                            <li><a href="module.html#moduleC">C.跨域應用模組</a></li>
+                            <li><a href="module.html#moduleD">D.淨零減碳模組</a></li>
                         </ul>
                     </li>
                     <li class="nav-item"><a href="../media.html" class="nav-link">影音專區</a></li>
-                    <li class="nav-item"><a href="javascript:void(0)" class="nav-link">問卷專區</a></li>
                 </ul>
 
                 <button type="button" class="navbar-toggle" id="navToggle">
@@ -53,23 +53,19 @@
         </header>
 
         <div id="contents-wrap" class="news-info">
-            <ul class="breadcrumb"><li><a href="../news.html">最新消息</a>&nbsp;／&nbsp;「諂媚吸睛顯色質量指標於建築相關照明的加值應用」向下扎根專題講座</li></ul>
-            <div class="module-title"><h2>「諂媚吸睛顯色質量指標於建築相關照明的加值應用」向下扎根專題講座</h2></div>
+            <ul class="breadcrumb"><li><a href="../news.html">最新消息</a>&nbsp;／&nbsp;AR/VR遊戲式學習教學工作坊及推廣活動</li></ul>
+            <div class="module-title"><h2>AR/VR遊戲式學習教學工作坊及推廣活動</h2></div>
            
             <div class="content">
                 <div class="susy-container">
                     <div class="news-block mb60">
-                        <div class="news-img"><img src="../img/news/221111-1.png" alt=""></div>
+                        <div class="news-img"><img src="../img/news/圖片1_1.png" alt=""></div>
                         <div class="news-detail">
-                            <p>活動名稱：「諂媚吸睛顯色質量指標於建築相關照明的加值應用」向下扎根專題講座</p>
-                            <p>活動時間：111.11.11（五）13:15-14:45</p>
-                            <p>主講者：世新大學 資訊管理學系 羅梅君 教授</p>
-                            <p>主辦單位：國立臺灣科技大學 色彩與照明科技研究所、世新大學 資訊管理學系</p>
-                            <p>合作學校：臺北市立南港高工</p>
-                            <p>指導單位：高解析實境顯示於智慧育樂跨領域應用教學聯盟</p>
-                            <p>聯絡窗口：臺科教學聯盟計畫辦公室 吳小姐(02)2733-3141分機6810</p>
-                        </div>                       
-                    </div>
+                            <p>活動名稱：AR/VR遊戲式學習教學工作坊及推廣活動</p>
+                        </div>
+                       
+                                </div>
+                            </div>
                 </div>
             </div>
         </div>
